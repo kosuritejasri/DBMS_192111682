@@ -9,4 +9,8 @@
    DML Commands-UPDATE,CHECK(https://github.com/kosuritejasri/DBMS_192111682/blob/main/dml%20comands.txt)
 ## EXPERIMENT 5
    SELECT with various clause-WHERE,pattern matching(https://github.com/kosuritejasri/DBMS_192111682/blob/main/experiment%205.txt)
+## EXPERIMENT 6 
+   SELECT with various clause-BETWEEN,IN,AGGREGATE FUNCTION()
+## EXPRIMENT 7 
+   SELECT with various clause-GRUOP BY,HAVING,ORDER BY()
    
