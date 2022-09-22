@@ -1,6 +1,7 @@
 # DBMS_192111682
 ## EXPERIMENT 1
-   DDL Commands-CREATE,ALTER,DROP(https://github.com/kosuritejasri/DBMS_192111682/blob/main/DBMS.sql , https://github.com/kosuritejasri/DBMS_192111682/blob/main/inserting%20data%20in%20table.sql)
+   DDL Commands-CREATE,ALTER,DROP(https://github.com/kosuritejasri/DBMS_192111682/blob/main/DBMS.sql,
+                                  https://github.com/kosuritejasri/DBMS_192111682/blob/main/inserting%20data%20in%20table.sql)
 ## EXPERIMENT 2
    DDL Commands with constraints-
       PRIMARY(https://github.com/kosuritejasri/DBMS_192111682/blob/main/primary%20key%20(1).sql)
@@ -21,7 +22,7 @@
    JOINS-EQUI JOIN,INNER JOIN,OUTER JOIN-(https://github.com/kosuritejasri/DBMS_192111682/blob/main/EXPERIMENT%209.txt)
 ## EXPRIMENT 10
    VIEW,INDEX,SEQUENCE(https://github.com/kosuritejasri/DBMS_192111682/blob/main/experiment%2010%20.txt)
-   ## EXPERIMENT 11
+## EXPERIMENT 11
    SIMPLE PROGRAMMING EXCERCISES USING CASE,IF,ITERATE,LEAVE,LOOP()
 ## EXPERIMENT 12
    SIMPLE PROGRAMMING EXCERCISES USING REPEAT,WHILE(https://github.com/kosuritejasri/DBMS_192111682/blob/main/experiment%2012.txt)
@@ -46,8 +47,7 @@
 ## EXPERIMENT 22
    CASE SCENARIO SQL QUERIES IMPLEMENTATION FOR BOOK PUBLISHING COMPANY(https://github.com/kosuritejasri/DBMS_192111682/blob/main/experiment.22.txt)
 ## EXPERIMENT 23
-   CASE SCENARIO SQL QUERIES IMPLEMENTATION FOR GENERAL HOSPITAL
-   https://github.com/kosuritejasri/DBMS_192111682/blob/main/experiment.23.txt
+   CASE SCENARIO SQL QUERIES IMPLEMENTATION FOR GENERAL HOSPITAL(https://github.com/kosuritejasri/DBMS_192111682/blob/main/experiment.23.txt)
 ## EXPERIMENT 24
    CASE SCENARIO SQL QUERIES IMPLEMENTATION FOR CAR RENTAL COMPANY  
 ## EXPERIMENT 25
