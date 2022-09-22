@@ -16,7 +16,7 @@
 ## EXPRIMENT 7 
    SELECT with various clause-GRUOP BY,HAVING,ORDER BY(https://github.com/kosuritejasri/DBMS_192111682/blob/main/experiment%207.txt)
 ## EXPRIMENT 8
-   SUBQUERY AND CORELATED QUERY-()
+   SUBQUERY AND CORELATED QUERY-(https://github.com/kosuritejasri/DBMS_192111682/blob/main/EXPERIMENT%208.TXT)
 ## EXPRIMENT 9
    JOINS-EQUI JOIN,INNER JOIN,OUTER JOIN-()
 ## EXPRIMENT 10
