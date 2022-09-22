@@ -15,5 +15,12 @@
    SELECT with various clause-BETWEEN,IN,AGGREGATE FUNCTION(https://github.com/kosuritejasri/DBMS_192111682/blob/main/experiment%206..txt)
 ## EXPRIMENT 7 
    SELECT with various clause-GRUOP BY,HAVING,ORDER BY(https://github.com/kosuritejasri/DBMS_192111682/blob/main/experiment%207.txt)
-   
+## EXPRIMENT 8
+   SUBQUERY AND CORELATED QUERY-()
+## EXPRIMENT 9
+   JOINS-EQUI JOIN,INNER JOIN,OUTER JOIN-()
+## EXPRIMENT 10
+   VIEW,INDEX,SEQUENCE()
+
+
    
