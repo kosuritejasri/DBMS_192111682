@@ -22,6 +22,7 @@
 ## EXPRIMENT 10
    VIEW,INDEX,SEQUENCE(https://github.com/kosuritejasri/DBMS_192111682/blob/main/experiment%2010%20.txt)
 ## EXPRIMENT 22
-   Case Scenario SQL Queries Implementation for Book Publishing Company-(
+   Case Scenario SQL Queries Implementation for Book Publishing Company-(https://github.com/kosuritejasri/DBMS_192111682/blob/main/experiment.22.txt)
+   
 
    
