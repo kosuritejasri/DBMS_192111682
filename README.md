@@ -37,7 +37,7 @@
 ## EXPERIMENT 17
    SQL STRING FUNCTIONS- REPEAT,REPLICATE(https://github.com/kosuritejasri/DBMS_192111682/blob/main/Experiment%2017.txt)
 ## EXPERIMENT 18
-   TCL COMMANDS-COMMIT,ROLLBACK(https://github.com/kosuritejasri/DBMS_192111682/blob/main/Experiment%2013%20(2).txt)
+   TCL COMMANDS-COMMIT,ROLLBACK(https://github.com/kosuritejasri/DBMS_192111682/blob/main/Experiment%2018.txt)
 ## EXPERIMENT 19
    DATABASE CONNECTIVITY – USING SIMPLE MySQL(https://github.com/kosuritejasri/DBMS_192111682/blob/main/Experiment%2019.txt)
 ## EXPERIMENT 20
